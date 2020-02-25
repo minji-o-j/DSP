@@ -1,1 +1,1 @@
-# Hadamard transform c code
+# Hadamard transform C code
