@@ -3,7 +3,7 @@
 ---
 
 # 👉hadamard 변환
-- [Code (C언어)](https://github.com/minji-o-j/DSP/tree/master/hadamard)
+- [Code (C언어)](https://github.com/minji-o-j/DSP/tree/master/hadamard)  
 ---
 
 #  👉Radon-Transform 을 통한 CT(Computed Tomography)기술
@@ -11,5 +11,6 @@
 <br>
 
 ## CT의 원리
-![image](https://user-images.githubusercontent.com/45448731/86435959-2edacc80-bd3c-11ea-9862-41ded0e5428e.png)
-Radon-Transform을 이용한 CT 기술
+![image](https://user-images.githubusercontent.com/45448731/86435959-2edacc80-bd3c-11ea-9862-41ded0e5428e.png)  
+
+> Radon-Transform을 이용한 CT 기술
