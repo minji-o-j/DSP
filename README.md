@@ -14,5 +14,10 @@
 ![image](https://user-images.githubusercontent.com/45448731/86435959-2edacc80-bd3c-11ea-9862-41ded0e5428e.png)  
 
 > Radon-Transform을 이용한 CT 기술  
+<br>
 
-![image](https://user-images.githubusercontent.com/45448731/86508873-789be380-be1e-11ea-8cb6-61b8ca4fcfb5.png)
+<br>
+
+![image](https://user-images.githubusercontent.com/45448731/86508873-789be380-be1e-11ea-8cb6-61b8ca4fcfb5.png)  
+
+> Sinogram with Radon-Transform
