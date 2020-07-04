@@ -7,7 +7,8 @@
 ---
 
 #  👉Radon-Transform 을 통한 CT(Computed Tomography)기술
-- [Code (C언어)](https://github.com/minji-o-j/DSP/blob/master/CT/DSP_%EC%B5%9C%EC%A2%85/Project1/test1.cpp)  
+- [Code (C언어)](https://github.com/minji-o-j/DSP/blob/master/CT/DSP_%EC%B5%9C%EC%A2%85/Project1/test1.cpp) 
+- [CT의 원리](#CT의-원리)
 <br>
 
 ## ◼ CT의 원리
