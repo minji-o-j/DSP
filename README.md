@@ -14,9 +14,9 @@
 ![image](https://user-images.githubusercontent.com/45448731/86435959-2edacc80-bd3c-11ea-9862-41ded0e5428e.png)  
 
 > Radon-Transform을 이용한 CT 기술  
-- 1. 원본 이미지를 θ°씩 회전시키며 나온 1차원 데이터가 합쳐진 Sinogram을 제작한다.
-- Sinogram 이미지를 1차원씩 불러와 주파수 영역으로 변환한 후 Filter을 적용한다.
-- Back-Projection(Inverse-Radon Transform)을 한다.
+1. 원본 이미지를 θ°씩 회전시키며 나온 1차원 데이터가 합쳐진 Sinogram을 제작한다.
+2. Sinogram 이미지를 1차원씩 불러와 주파수 영역으로 변환한 후 Filter을 적용한다.
+3. Back-Projection(Inverse-Radon Transform)을 한다.
 <br>
 
 <br>
