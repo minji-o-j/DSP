@@ -48,7 +48,12 @@
 
 <br>
 
-## ◼ 구현 결과
+## ◼ Filter 적용 전
+![image](https://user-images.githubusercontent.com/45448731/86539143-55b02300-bf35-11ea-98ed-879bf421b868.png)  
+![image](https://user-images.githubusercontent.com/45448731/86539173-7d9f8680-bf35-11ea-8d60-2ed3176be9de.png)  
+
+
+## ◼ Ram-Lak Filter 적용 후 
 
 
 <br>
