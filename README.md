@@ -42,6 +42,27 @@
 
 <br>
 
+![image](https://user-images.githubusercontent.com/45448731/86539417-27334780-bf37-11ea-8253-e7389961f524.png)  
+> DFT와 FFT 영역
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+![image](https://user-images.githubusercontent.com/45448731/86539436-43cf7f80-bf37-11ea-9bbb-d8535476ed6a.png)
+> DFT에 적용할 Ram-Lak Filter의 형태
+<br>
+
+<br>
+
+<br>
+
+<br>
+
 ![image](https://user-images.githubusercontent.com/45448731/86513533-e60f3a80-be45-11ea-93f1-b4830d9c8820.png)
 > Back-Projection의 원리 
 <br>
