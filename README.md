@@ -14,14 +14,18 @@
 <br>
 
 ## ◼ CT의 원리  
-![image](https://user-images.githubusercontent.com/45448731/86435959-2edacc80-bd3c-11ea-9862-41ded0e5428e.png)  
-
-> Radon-Transform을 이용한 CT 기술  
 ```
 1. 원본 이미지를 θ°씩 회전시키며 나온 1차원 데이터가 합쳐진 Sinogram을 제작한다.
-2. Sinogram 이미지를 1차원씩 불러와 주파수 영역으로 변환(DFT)한 후 Ram-Lak Filter을 적용한다.
+2. Sinogram 이미지를 1차원씩 불러와 DFT한 후 Ram-Lak Filter을 적용한다.
 3. IDFT 후 Back-Projection(Inverse-Radon Transform)을 한다.
+
+DFT: 시간 스펙트럼을 주파수 스펙트럼으로 바꾸는 과정
+IDFT: 주파수 스펙트럼을 시간 스펙트럼으로 바꾸는 과정 
 ```
+
+![image](https://user-images.githubusercontent.com/45448731/86435959-2edacc80-bd3c-11ea-9862-41ded0e5428e.png)  
+> Radon-Transform을 이용한 CT 기술  
+
 <br>
 
 <br>
@@ -44,6 +48,7 @@
 
 ![image](https://user-images.githubusercontent.com/45448731/86539417-27334780-bf37-11ea-8253-e7389961f524.png)  
 > DFT와 FFT 영역
+-  DFT는 시간 축을 주파수 영역으로 바꿈으로써 신호를 이산 신호로 바꾸어 준다.  
 
 <br>
 
@@ -79,8 +84,8 @@
 
 ## ◼ Ram-Lak Filter 적용 후 
 ![image](https://user-images.githubusercontent.com/45448731/86539273-1209e900-bf36-11ea-94ad-b6a2575b9404.png)
-> - 원본/Ram-Lak Filter 적용 전/ 적용 후  
-> - 0.5°씩 720번 회전한 결과 이미지
+> 원본/Ram-Lak Filter 적용 전/ 적용 후  
+> 0.5°씩 720번 회전한 결과
 
 - Ram-Lak Filter을 이용하여 저주파 성분을 줄여준다.   
 - 잡음을 완전하게 없애는 데에는 실패하였다.
