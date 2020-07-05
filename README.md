@@ -79,9 +79,10 @@
 
 ## ◼ Ram-Lak Filter 적용 후 
 ![image](https://user-images.githubusercontent.com/45448731/86539273-1209e900-bf36-11ea-94ad-b6a2575b9404.png)
-> 원본/Ram-Lak Filter 적용 전/ 적용 후
-- Ram-Lak Filter을 이용하여 저주파 성분을 줄여준다.  
-- 0.5°씩 720번 회전한 결과 
+> - 원본/Ram-Lak Filter 적용 전/ 적용 후  
+> - 0.5°씩 720번 회전한 결과 이미지
+
+- Ram-Lak Filter을 이용하여 저주파 성분을 줄여준다.   
 - 잡음을 완전하게 없애는 데에는 실패하였다.
 
 <br>
