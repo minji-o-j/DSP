@@ -73,8 +73,9 @@
 #### ◻ 손상되는 이유  
   - 2차원 배열을 1°씩 돌리는 과정에서 index가 범위를 초과하여 data의 값이 제대로 들어가지 않기 때문  
   - 1°씩 반복해서 돌릴 때 원본 data를 돌린것이 아니라 이미 손상되어있는 data를 반복해서 돌렸기 때문  
- 
-  
+<br>
 
+#### ◼ 수정 결과
 
-![image](https://user-images.githubusercontent.com/45448731/86536163-6904c380-bf20-11ea-843f-765aaf1519a1.png)
+![image](https://user-images.githubusercontent.com/45448731/86536163-6904c380-bf20-11ea-843f-765aaf1519a1.png)  
+> Head.bmp에 대한 Sinogram
