@@ -10,6 +10,7 @@
 - [Code (C언어)](https://github.com/minji-o-j/DSP/blob/master/CT/DSP_%EC%B5%9C%EC%A2%85/Project1/test1.cpp) 
 - [CT의 원리](#-CT의-원리)  
 - [구현 결과](#-구현-결과)  
+- [겪었던 문제와 해결 방법](#-겪었던-문제와-해결-방법)  
 <br>
 
 ## ◼ CT의 원리  
@@ -48,3 +49,9 @@
 <br>
 
 ## ◼ 구현 결과
+<br>
+
+<br>
+
+## ◼ 겪었던 문제와 해결 방법
+
