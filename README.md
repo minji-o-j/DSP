@@ -19,8 +19,8 @@
 > Radon-Transform을 이용한 CT 기술  
 ```
 1. 원본 이미지를 θ°씩 회전시키며 나온 1차원 데이터가 합쳐진 Sinogram을 제작한다.
-2. Sinogram 이미지를 1차원씩 불러와 주파수 영역으로 변환한 후 Filter을 적용한다.
-3. Back-Projection(Inverse-Radon Transform)을 한다.
+2. Sinogram 이미지를 1차원씩 불러와 주파수 영역으로 변환(DFT)한 후 Ram-Lak Filter을 적용한다.
+3. IDFT 후 Back-Projection(Inverse-Radon Transform)을 한다.
 ```
 <br>
 
@@ -80,6 +80,7 @@
 ## ◼ Ram-Lak Filter 적용 후 
 ![image](https://user-images.githubusercontent.com/45448731/86539273-1209e900-bf36-11ea-94ad-b6a2575b9404.png)
 > 원본/Ram-Lak Filter 적용 전/ 적용 후
+- Ram-Lak Filter을 이용하여 저주파 성분을 줄여준다.  
 - 0.5°씩 720번 회전한 결과 
 - 잡음을 완전하게 없애는 데에는 실패하였다.
 
