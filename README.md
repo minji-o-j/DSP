@@ -118,3 +118,10 @@ IDFT: 주파수 스펙트럼을 시간 스펙트럼으로 바꾸는 과정
 
 ![image](https://user-images.githubusercontent.com/45448731/86536163-6904c380-bf20-11ea-843f-765aaf1519a1.png)  
 > Head.bmp에 대한 Sinogram
+
+---
+## 사진 출처
+Radon-Transform을 이용한 CT 기술  
+Sinogram with Radon-Transform
+DFT와 FFT 영역
+Back-Projection의 원리 
