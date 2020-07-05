@@ -9,7 +9,8 @@
 #  👉Radon-Transform 을 통한 CT(Computed Tomography)기술
 - [Code (C언어)](https://github.com/minji-o-j/DSP/blob/master/CT/DSP_%EC%B5%9C%EC%A2%85/Project1/test1.cpp) 
 - [CT의 원리](#-CT의-원리)  
-- [구현 결과](#-구현-결과)  
+- [Filter 적용 전](#-Filter-적용-전)  
+- [Ram-Lak Filter 적용 후](#-Ram-Lak-Filter-적용-후)  
 - [겪었던 문제와 해결 방법](#-겪었던-문제와-해결-방법)  
 <br>
 
