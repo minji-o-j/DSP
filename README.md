@@ -12,7 +12,7 @@
 - [구현 결과](#-구현-결과)  
 <br>
 
-## ◼ CT의 원리
+## ◼ CT의 원리  
 ![image](https://user-images.githubusercontent.com/45448731/86435959-2edacc80-bd3c-11ea-9862-41ded0e5428e.png)  
 
 > Radon-Transform을 이용한 CT 기술  
