@@ -121,7 +121,9 @@ IDFT: 주파수 스펙트럼을 시간 스펙트럼으로 바꾸는 과정
 
 ---
 ## 사진 출처
-Radon-Transform을 이용한 CT 기술  - Mendl, C. "Real-time radon transform via the GPU graphics pipeline." tech. rep (2010).  
-Sinogram with Radon-Transform - 유훈 교수님 디지털신호처리 강의자료 DSP 501 p.5  
-[DFT와 FFT 영역](https://slideplayer.com/slide/5665495/)  
-[Back-Projection의 원리](https://www.researchgate.net/figure/a-Simple-Back-projection-b-Filtered-Back-projection-Steven-et-al-60_fig16_328577692)  
+- Radon-Transform을 이용한 CT 기술
+  - Mendl, C. "Real-time radon transform via the GPU graphics pipeline." tech. rep (2010).  
+- Sinogram with Radon-Transform
+  - 유훈 교수님 디지털신호처리 강의자료 DSP 501 p.5  
+- [DFT와 FFT 영역](https://slideplayer.com/slide/5665495/)  
+- [Back-Projection의 원리](https://www.researchgate.net/figure/a-Simple-Back-projection-b-Filtered-Back-projection-Steven-et-al-60_fig16_328577692)  
