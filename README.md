@@ -49,9 +49,27 @@
 <br>
 
 ## ◼ 구현 결과
-<br>
+
 
 <br>
 
-## ◼ 겪었던 문제와 해결 방법
+<br>
 
+## ◼ 겪었던 문제와 해결 방법  
+
+![image](https://user-images.githubusercontent.com/45448731/86535963-fd6e2680-bf1e-11ea-9c0b-21da71465e0a.png)
+> Head.bmp (원본)  
+<br>
+
+![image](https://user-images.githubusercontent.com/45448731/86536150-51c5d600-bf20-11ea-98d3-d9e5790bdfae.png)  
+> 선이 나타난 Sinogram  
+<br>
+
+- 처음에 Sinogram을 만드는 과정에서 데이터가 손실되는 문제가 발생
+  - 손실되는 데이터가 가운데 축을 중심으로 대칭
+  - Sinogram을 만들수록(그림 하단으로 갈 수록) 손상된 영역이 더욱 넓어짐  
+  
+- 손상되는 이유:
+
+
+![image](https://user-images.githubusercontent.com/45448731/86536163-6904c380-bf20-11ea-843f-765aaf1519a1.png)
