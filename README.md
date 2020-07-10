@@ -78,7 +78,7 @@ IDFT: 주파수 스펙트럼을 시간 스펙트럼으로 바꾸는 과정
 ## ◼ Filter 적용 전
 ![image](https://user-images.githubusercontent.com/45448731/86539143-55b02300-bf35-11ea-98ed-879bf421b868.png)  
 ![image](https://user-images.githubusercontent.com/45448731/86539173-7d9f8680-bf35-11ea-8d60-2ed3176be9de.png)  
-
+> 원본/Sinogram/Inverse radon transform  
 <br>
 
 <br>
